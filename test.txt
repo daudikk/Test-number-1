@@ -6,10 +6,13 @@ One
 two
 three
 four
+ten
+eleven
+twelve
 five
 six
 seven
 eight
 nine
 UNICORN
-PONIE
+
